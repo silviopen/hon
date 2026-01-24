@@ -47,7 +47,7 @@
                 }
             },
             "ac_winddirectionhorizontal": {
-                "name": "Direzione del flussoorizzontale",
+                "name": "Direzione del flusso orizzontale",
                 "state": {
                     "0": "Media",
                     "3": "Molto a sinistra",
