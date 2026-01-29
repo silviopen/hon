@@ -9,7 +9,7 @@
                 }
             },
             "reconfigure": {
-                "description": "PInserire le credenziali hOn",
+                "description": "Inserire le credenziali hOn",
                 "data": {
                     "password": "Password",
                     "reconfigure_successful": "E' necessario riavviare HA"
